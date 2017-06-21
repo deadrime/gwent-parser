@@ -1,0 +1,9 @@
+bd_old
+img/*
+.idea
+config.conf
+data.json
+data.pickle
+osu_test.py
+vk_test.py
+
